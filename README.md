@@ -7,9 +7,15 @@ I'm Suvechhya Pokhrel, a data science enthusiast currently pursuing my master's 
 
 ## Projects
 
-In the near future, I plan to share data science projects that demonstrate my skills and knowledge in the field. 
+I have shared some data science projects that demonstrate my skills and knowledge in the field. 
 
 Feel free to explore these projects to see the data analysis, machine learning, and data visualization work I've done during my studies.
+
+### Mid-term Project Branch
+My "Mid-term-Project" branch contains the latest work and files related to our mid-term project. To access this branch  and its content, simply follow these steps:
+1. Click on branch dropdown above.
+2. Select the "Mid-term-Project" branch from the list.
+3. You'll now be viewing the "Mid-term-Project" branch, where you can explore the project files, documentation, and progress updates.
 
 ## Contact
 
